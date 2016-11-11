@@ -2,7 +2,7 @@
 chatRoom: "tomcat"
 issueProjectName: "tomcat"
 buildName: "test.tomcat"
-codeReview: true
+codeReview: false
 links:
   Git: "git@github.com:mennink/spring3-mvc-maven-annotation-hello-world.git"
   Job: "http://192.168.42.246:30001/job/test.tomcat"
