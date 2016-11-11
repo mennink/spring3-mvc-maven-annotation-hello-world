@@ -1,0 +1,15 @@
+---
+chatRoom: "tomcat"
+issueProjectName: "tomcat"
+buildName: "test.tomcat"
+codeReview: true
+links:
+  Git: "git@github.com:mennink/spring3-mvc-maven-annotation-hello-world.git"
+  Job: "http://192.168.42.246:30001/job/test.tomcat"
+  Production: "http://10.0.0.78:80/kubernetes/pods?namespace=default-prod"
+  Staging: "http://10.0.0.78:80/kubernetes/pods?namespace=default-staging"
+  Testing: "http://10.0.0.78:80/kubernetes/pods?namespace=default-testing"
+environments:
+  Testing: "default-testing"
+  Staging: "default-staging"
+  Production: "default-prod"
