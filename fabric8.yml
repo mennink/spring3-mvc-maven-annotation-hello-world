@@ -1,5 +1,4 @@
 ---
-pipeline: "maven/CanaryReleaseStageAndApprovePromote/Jenkinsfile"
 chatRoom: "tomcat"
 issueProjectName: "tomcat"
 buildName: "test.tomcat"
